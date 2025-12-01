@@ -5,6 +5,8 @@ Hardware
 - Elegoo board
 - 8 Segment display
 - Computer microphone
+- Resistors
+- Wires
 
 Model
-- Google Teachable
+- Skey
