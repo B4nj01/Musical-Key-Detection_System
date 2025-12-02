@@ -1,12 +1,17 @@
 # Musical-Key-Detection_System
-Estimates the key of the song being played with live input from an instrument using chromograms.  This is intended to help new artists who are trying to connect their ideas with music theory and live artists who need to find the key mid-set
+Estimates the key of the song being played with live input from an or multiple instruments.
 
 Hardware
 - Elegoo board
-- 8 Segment display
+- 4 digit 7 Segment display
 - Computer microphone
 - Resistors
 - Wires
+- Bread Board
 
 Model
 - Skey
+
+Software
+- Arduino IDE 2.3.6
+- Python 3.11.5
